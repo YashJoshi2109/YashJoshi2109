@@ -33,3 +33,64 @@
 </div>
 
 <br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
+![SQL](https://img.shields.io/badge/SQL-%2300D4FF.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML / AI**
+
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300D4FF.svg?style=flat-square&logo=python&logoColor=white)
+
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Databases**
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+
+**Cloud**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+
+**DevOps / MLOps**
+
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://jenkins.io)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat-square&logo=mlflow&logoColor=white)
+
+**Frameworks & IDEs**
+
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+<br/>
