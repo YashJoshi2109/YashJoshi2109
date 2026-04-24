@@ -113,3 +113,11 @@
 </div>
 
 <br/>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashJoshi2109&layout=compact&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&hide_border=false&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<br/>
