@@ -121,3 +121,13 @@
 </div>
 
 <br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashJoshi2109&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF&hide_border=false&border_color=00D4FF" alt="Contribution Graph" width="100%" />
+
+</div>
+
+<br/>
