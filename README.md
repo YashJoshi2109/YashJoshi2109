@@ -132,11 +132,20 @@
 
 <br/>
 
-## 🏆 Trophies
+## 📋 Profile Summary
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=nord&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashJoshi2109&theme=github_dark" alt="Profile Details" width="100%" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashJoshi2109&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashJoshi2109&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashJoshi2109&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashJoshi2109&theme=github_dark&utcOffset=8" alt="Productive Time" />
 
 </div>
 
