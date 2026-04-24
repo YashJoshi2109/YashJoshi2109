@@ -136,7 +136,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=algolia&no-frame=false&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies" />
 
 </div>
 
