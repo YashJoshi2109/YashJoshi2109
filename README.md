@@ -105,7 +105,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=YashJoshi2109&show_icons=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&border_color=00D4FF&count_private=true&hide_border=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=YashJoshi2109&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff&dates=888888&border=00D4FF&stroke=00D4FF" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=YashJoshi2109&theme=dark&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff&dates=888888&border=00D4FF&stroke=00D4FF" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
