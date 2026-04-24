@@ -94,3 +94,22 @@
 </div>
 
 <br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YashJoshi2109&show_icons=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&border_color=00D4FF&count_private=true&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=YashJoshi2109&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff&dates=888888&border=00D4FF&stroke=00D4FF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
