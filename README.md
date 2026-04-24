@@ -88,7 +88,7 @@
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=algolia&no-frame=false&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YashJoshi2109&theme=nord&column=6&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
