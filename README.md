@@ -141,3 +141,21 @@
 </div>
 
 <br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashJoshi2109/YashJoshi2109/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashJoshi2109/YashJoshi2109/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YashJoshi2109/YashJoshi2109/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashJoshi2109&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
