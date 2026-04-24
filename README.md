@@ -7,3 +7,14 @@
 </div>
 
 <br/>
+
+## 💫 About Me
+
+- 🎓 **MS Data Science** @ University of Texas at Arlington
+- 🤝 **Collaborating on:** End-to-end DS solutions, Hackathons, MLOps, AI in education/sustainability/smart cities
+- 🌱 **Currently learning:** Advanced data engineering, transformer models, cloud-native AI (AWS/GCP)
+- 💬 **Ask me about:** ML pipeline design, LLMs, FastAPI + Docker deployment, hackathon architecture
+- 🤗 **AI Builder:** Trained & published multi-modal AI models on HuggingFace spanning NLP, computer vision, and generative AI
+- ⚡ **Fun fact:** Built a full CI/CD analytics dashboard (Jenkins + Docker + K8s + GitHub Actions) in a single hackathon weekend
+
+<br/>
